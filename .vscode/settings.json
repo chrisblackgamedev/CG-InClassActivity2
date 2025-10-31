@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CG_InClass2.sln"
+    "dotnet.defaultSolution": "CG-InClassActivity2.sln"
 }
